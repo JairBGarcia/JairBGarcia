@@ -12,7 +12,8 @@ I'm a creator, a dreamer, and an eternal optimist. My mission is to build softwa
 ## Languages and Technologies
 - 💻 Python, JavaScript, Java
 - 🌐 HTML, CSS
-- 
+- 🛠️ Git, VS Code
+  
 ## Why Video Games, Laughter, and Formula 1 Matter
 - 🎮 **Video Games**: They're not just entertaining; they also stimulate creativity, improve concentration, and foster problem-solving skills. I can't wait to discuss gaming strategies with you!
 - 😂 **Laughter**: Laughter truly is the best medicine. In my code, I aim to add a touch of humor whenever I can because, as they say, "A day without laughter is a day wasted." 😄
