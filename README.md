@@ -1,18 +1,19 @@
 # Hi, I'm Jair! 👋
 
 ## About Me
-I'm a passionate software developer with a heart that beats to the rhythm of video games and a soul fueled by the adrenaline of Formula 1. 🏁
+I'm a junior developer with a strong interest in video games and a fascination with Formula 1. 🏁
 
-When I'm not immersed in the world of code, you'll find me enjoying a good session of my favorite video game or laughing out loud at the latest internet memes. I firmly believe that a good joke and an exciting race can make any day better.
+When I'm not coding, you'll find me playing my favorite video games or enjoying the latest internet memes. I believe in the power of humor and the excitement of competitive racing to brighten any day.
 
-Formula 1 isn't just a hobby for me; it's a passion that teaches me about precision, speed, and the importance of every millisecond—something I apply in my code every day. And as a true gamer, I'm always on the lookout for the next great adventure, whether it's on the screen or in real life.
+Formula 1 is more than just a hobby for me; it teaches me about precision, speed, and the importance of every millisecond, qualities I apply in my daily work. As a dedicated gamer, I'm always looking for the next adventure, whether virtual or real.
 
-I'm a creator, a dreamer, and an eternal optimist. My mission is to build software that not only works well but also brings joy and excitement to people's lives, just like video games and Formula 1 do for me.
+I'm a creator, a dreamer, and an optimist committed to building software that not only functions flawlessly but also brings joy and excitement to users' lives, much like the enjoyment I derive from video games and Formula 1.
 
 ## Languages and Technologies
 - 💻 Python, JavaScript, Java
 - 🌐 HTML, CSS
 - 🛠️ Git, VS Code
+- 🗃️ MySQL
   
 ## Why Video Games, Laughter, and Formula 1 Matter
 - 🎮 **Video Games**: They're not just entertaining; they also stimulate creativity, improve concentration, and foster problem-solving skills. I can't wait to discuss gaming strategies with you!
@@ -22,9 +23,10 @@ I'm a creator, a dreamer, and an eternal optimist. My mission is to build softwa
 La re buena boff
 
 <p align="center">
-  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="50" height="50">
-  <img src="https://e7.pngegg.com/pngimages/602/440/png-clipart-javascript-open-logo-number-js-angle-text.png" width="50" height="50">
-  <img src="https://victorroblesweb.es/wp-content/uploads/2018/04/git.png" width="50" height="50">    
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
 </p>
